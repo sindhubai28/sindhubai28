@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Sindhu Bai A</h1>
 <h3 align="center">Computer Vision Engineer | Video Analytics | Intelligent Surveillance</h3>
 
