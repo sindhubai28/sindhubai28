@@ -22,7 +22,7 @@ Computer Vision Engineer with **2+ years of experience** building **real-time CC
 Specialized in **object detection, multi-object tracking, event-based analytics**, and **production deployment** of AI systems under latency constraints.
 
 - Current location: **Dubai, UAE**
-- Visa status: **Spouse Sponsor (valid till Oct 2027)**
+- Visa status: **Sponsor (valid till Oct 2027)**
 - Availability: **Immediate**
 - Target roles: CV Engineer • AI Engineer • Video Analytics Engineer
 
